@@ -10,7 +10,7 @@
 <channel>
 	<title>FuckDoll</title>
 	<atom:link href="http://fuckdoll.tk/feed/" rel="self" type="application/rss+xml" />
-	<link>http://fuckdoll.tk</link>
+	<link>http://fuckdoll.tk/</link>
 	<description></description>
 	<lastBuildDate>Mon, 24 Jan 2022 20:46:42 +0000</lastBuildDate>
 	<language>ru-RU</language>

@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Комментарии на сайте FuckDoll	</title>
-	<atom:link href="http://fuckdoll.tk/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://fuckdoll.tk</link>
+	Комментарии: 	</title>
+	<atom:link href="http://fuckdoll.tk/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fuckdoll.tk/</link>
 	<description></description>
 	<lastBuildDate>Mon, 24 Jan 2022 20:46:42 +0000</lastBuildDate>
 	<sy:updatePeriod>
