@@ -20,6 +20,12 @@
                 'type' => 'switcher',
                 'title' => 'Enable Gutenberg shortcode generator',
                 'default' => true
+            ),
+            array(
+                'id' => 'h5vp_disable_video_shortcode',
+                'type' => 'switcher',
+                'title' => "Disable `[video id='id']` shortcode for this plugin",
+                'default' => false
             )
         )
     ));

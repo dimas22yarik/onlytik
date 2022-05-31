@@ -27,7 +27,6 @@ class EnqueueAssets{
 
         wp_register_style( 'bplugins-plyrio', H5VP_PLUGIN_DIR . 'css/player-style.css', array(), H5VP_VER , 'all' );
         wp_register_style( 'h5vp-public', H5VP_PLUGIN_DIR . 'dist/public.css', array('bplugins-plyrio'), H5VP_VER , 'all' );
-
     }
 
     /**

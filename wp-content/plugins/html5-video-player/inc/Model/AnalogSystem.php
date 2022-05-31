@@ -12,7 +12,6 @@ class AnalogSystem{
     public static function getData($id){
         $controls = get_post_meta($id, 'h5vp_controls', true);
        
-
         $options = [
             'controls' => $controls,
             'loop' => [

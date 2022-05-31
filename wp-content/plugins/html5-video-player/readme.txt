@@ -3,8 +3,8 @@ Contributors: abuhayat,shehabulislam
 Tags: HTML5 video player, plyr, video, video player, mp4 Player 
 Donate link: https://gum.co/wpdonate
 Requires at least: 5.0
-Tested up to: 5.8.3
-Stable tag: 2.4.7
+Tested up to: 6.0
+Stable tag: 2.5.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,6 +16,7 @@ Play various video files in wordpress. A Simple, accessible, Easy to Use & fully
 
 
 **[Live Demo](https://links.bplugins.com/h5vp "Demo")**
+**[Buy The Pro](https://wpvideoplayer.com/buy-now/ "Buy Pro version")** 
 
 = How to use ? =
 Here is a quick tutorial.
@@ -131,6 +132,24 @@ If you find a conflict between our plugin and a third-party plugin, please let u
 3. UI
 
 == Changelog ==
+
+= 2.5.5 - 16/04/2022 = 
+* pause other players on play
+
+= 2.5.4 - 23/03/2022 = 
+* solved Fullscreen issue on safari
+
+= 2.5.3 - 22/03/2022 = 
+* rotate screen automatically when enter fullscreen
+
+= 2.5.2 - 08/02/2022 = 
+* option to disable [video] shortcode to avoid conflict
+
+= 2.5.0 - 08/02/2022 = 
+* removed black background before load.
+
+= 2.4.9 =
+* Removed unnecessary text
 
 = 2.4.6 = 
 * Fixed Elementor Addon mobile issue
